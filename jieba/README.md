@@ -1,0 +1,1 @@
+To run jieba tests, the dictionaries are assumed to be inside this directory.
